@@ -6,4 +6,4 @@ var b = a as string;
 
 // DOM API 조작
 var div = document.querySelector('div');
-div.innerText
+// div.innerText
