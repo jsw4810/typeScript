@@ -1,10 +1,10 @@
 //타입추론 1 
-var a=10;
+// var a=10;
 
-function getA(b=10){
-  var c =  'abc'
-  return b+c;
-}
+// function getA(b=10){
+//   var c =  'abc'
+//   return b+c;
+// }
 
 // 타입추론2
 
