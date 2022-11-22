@@ -6,4 +6,7 @@ var b = a as string;
 
 // DOM API 조작
 var div = document.querySelector('div');
+if(div){
+  div.innerHTML
+}
 // div.innerText
